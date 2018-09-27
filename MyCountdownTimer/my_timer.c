@@ -1,7 +1,7 @@
 /*************************************************************************
  * File Name:  my_timer.c
  *
- * 
+ * File contains all function related to Countdown Timer
  *************************************************************************/
 #include "my_timer.h"
 
